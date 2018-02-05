@@ -4,6 +4,11 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
+..main-logo{
+		width: 70px;
+		height: 70px;
+	}
+
 .bg-dark{
 	background-color: transparent !important;
 
@@ -57,6 +62,11 @@ body{
 		color: #fff;
 		text-decoration: underline;
 		line-height: 16px;
+	}
+
+	.main-logo{
+		width: 70px;
+		height: 70px;
 	}
 }
 
@@ -1502,10 +1512,9 @@ select {
 	margin-top: 60px;
 
 	p{
-		font-size: 15px;
+		font-size: 16px;
 		font-weight: 200;
-		line-height: 22px;
-		letter-spacing: .1px;
+		line-height: 30px;
 	}
 }
 
